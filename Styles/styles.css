@@ -69,10 +69,10 @@ font-size: 20px;
 }
 
 .li1 a {
-  display: block;
+  display: inline;
   color: white;
   text-align: center;
-  padding: 5px;
+  padding: 15px 15px;
   text-decoration: none;
   width: 100%;
 }
